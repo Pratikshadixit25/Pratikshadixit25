@@ -1,46 +1,82 @@
-# Hi, I'm Pratiksha Dixit 
 
- Electrical Engineering Graduate |  Aspiring Data Analyst
+# Hi, I'm Pratiksha Dixit 👋
 
-I'm passionate about Data Analytics and Python development. I am currently building my skills in Python, SQL, Power BI, and Excel through hands-on practice and projects.
+### Data Analytics | Python | SQL | Power BI | Excel | Machine Learning
 
-## Skills & Tools
+I'm a B.Tech Electrical Engineering graduate with a Diploma in Information Technology and a strong interest in Data Analytics and Software Development.
 
-- **Programming:** Python
-- **Database:** MySQL, SQL
-- **Data Analytics:** Excel, Power BI
-- **Python Concepts:** OOP, File Handling, PDBC
-- **Web Technologies:** HTML, CSS, JavaScript, React
-- **Tools:** Git, GitHub, VS Code, MySQL Workbench
+I enjoy working with data, solving problems, building interactive dashboards, and developing practical projects. I'm continuously improving my technical skills through hands-on projects and learning new technologies.
 
-##  Projects
+---
 
-### 1. Sales Analysis System
-A menu-driven Sales Analysis System built using Python, MySQL, and Python Database Connectivity (PDBC).
+### 👩‍💻 About Me
 
-**Key Features:**
-- Product search and sales analysis
-- Total sales calculation
-- Best-selling and highest-revenue product analysis
-- Category-wise and city-wise sales analysis
-- Discount and low-sales product analysis
+- 🎓 B.Tech in Electrical Engineering (2026)
+- 📊 Interested in Data Analytics and Business Intelligence
+- 🐍 Working with Python, SQL, Excel and Power BI
+- 🤖 Currently learning Machine Learning and Scikit-learn
+- 📈 Building real-world data analytics projects
+- 🌱 Always learning and improving my technical skills
 
-🔗 [View Project](https://github.com/Pratikshadixit25/sales-analysis-python-mysql-using-pdbc)
+---
 
-##  Currently Learning
+### 🛠️ Technical Skills
 
-- Data Analytics
-- Advanced SQL
-- Power BI
-- Excel
-- Python for Data Analysis
+**Programming:** Python, SQL
 
-##  Career Goal
+**Data Analysis:** Pandas, NumPy
 
-Looking forward to starting my career in Data Analytics / IT, where I can apply my analytical and programming skills to real-world projects and continue learning.
+**Data Visualization:** Matplotlib, Seaborn, Power BI
 
-##  Connect With Me
+**Database:** MySQL
+
+**Microsoft Tools:** Excel, Power Query
+
+**Other Tools:** Git, GitHub, VS Code, MySQL Workbench
+
+**Currently Learning:** Machine Learning, Scikit-learn
+
+---
+
+### 📂 Featured Projects
+
+**1. UrbanNest – Real Estate Analytics Dashboard**
+- Developed an interactive Power BI dashboard.
+- Analyzed property sales, revenue, customer leads and sales performance.
+- Used Power Query, Data Modeling, DAX and interactive slicers.
+
+**2. Sales Analysis Using Python and MySQL**
+- Developed a Python-based sales analysis project.
+- Integrated Python with MySQL using PDBC.
+- Performed database operations and analyzed sales data.
+
+**3. Business Sales Intelligence Dashboard**
+- Worked on sales data cleaning and transformation.
+- Used Power BI to build business-focused visualizations and insights.
+
+---
+
+### 📜 Certifications & Training
+
+- Python – Data Science / Data Analytics | Kiran Academy
+- Introduction to SQL | Simplilearn
+- Deloitte Australia – Data Analytics Job Simulation | Forage
+- Excel Essential Training | LinkedIn Learning
+
+---
+
+### 📊 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pratikshadixit25)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikshadixit25&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikshadixit25&layout=compact&theme=default)
+
+---
+
+### 🤝 Let's Connect
 
 - GitHub: [Pratikshadixit25](https://github.com/Pratikshadixit25)
-- LinkedIn: www.linkedin.com/in/pratiksha-dixit-3ab19a245
 
+**"Learning every day, building projects, and turning data into meaningful insights."**
